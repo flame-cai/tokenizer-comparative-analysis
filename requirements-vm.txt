@@ -1,0 +1,11 @@
+aksharamukha
+transformers
+pandas
+tqdm
+torch
+datasets
+stanza
+gensim
+Levenshtein
+scikit-learn
+epitran
