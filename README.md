@@ -50,7 +50,7 @@ The tokenizers are assessed using information-theoretic intrinsic evaluation met
 and their effect on Downstream Tasks for Hindi and Marathi",
     author = "Dwivedi, Shagun  and
       Gopalan, Kaushik",
-    booktitle = "Proceedings of the 2025 Conference of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    booktitle = "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     month = july,
     year = "2026",
     publisher = "Association for Computational Linguistics",
