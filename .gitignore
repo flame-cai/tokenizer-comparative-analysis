@@ -2,6 +2,12 @@ all_tokenizer_files
 chkpts
 datasets
 logs_v4
+intrinsic_eval
 models
 results
+embeddings
+train_llm_v2
 __pycache__
+archive
+tokenizer.png
+new_experiments
