@@ -3,6 +3,10 @@
 [Shagun Dwivedi](https://shagundwivedi.github.io) · [Kaushik Gopalan](https://www.linkedin.com/in/kaushik-gopalan-b6533624/?originalSubdomain=in)  
 The 64th Annual Meeting of the Association for Computational Linguistics, 2026
 
+### Introduction
+
+In this paper, we compare the performance of five existing tokenizers that use UTF-8 inputs, and we study how, *ceteris paribus*, different tokenization schemes affect the ability of language models for question-answering, transliteration, grapheme-to-phoneme conversion, and their robustness to noise. We also propose a novel grapheme cluster tokenizer, a form of visual character unit level tokenizer for *Devanagari*. We assess whether the performance of tokenizers on intrinsic evaluation metrics translates to the downstream performance of models trained using those tokenizers.
+
 ### Repo Structure
 
 - `auto_eval/` contains code for the automated evaluation framework for the question answering tasks
